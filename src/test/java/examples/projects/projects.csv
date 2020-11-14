@@ -1,0 +1,3 @@
+name,identifier,description,inherit_members
+RedmineProject1,identifier,Redmine Project for api testing1,false
+RedmineProject2,identifier,Redmine Project for api testing2,false
