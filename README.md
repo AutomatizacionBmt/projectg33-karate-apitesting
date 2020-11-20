@@ -1,4 +1,4 @@
-# API Testing con Karate DSL para la aplicación Redmine
+# API Testing with Karate DSL for app Redmine
 This repository to support the online course. This framework supports web services and BDD.
 
 José Hurtado<br />
